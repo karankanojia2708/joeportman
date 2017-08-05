@@ -5,10 +5,68 @@
     "status" : "Ready"
     
   },
+  
   {
    "subject": "(Front End) Angular.js",
     "knowledge" : "Limited",
     "status" : "Ready"
     
+  },
+  
+  
+  {
+   "subject": "(Back End) Django(Python)",
+    "knowledge" : "Limited",
+    "status" : "Learning"
+    
+  },
+  
+  
+  
+  {
+   "subject": "(Front End) MEAN Stack",
+    "knowledge" : "Limited",
+    "status" : "Learning"
+    
+  },
+  
+  
+  
+  {
+   "subject": "(Back End) PHP, MYSQL",
+    "knowledge" : "Almost Complete",
+    "status" : "Ready"
+  
+  },
+  
+  {
+   "subject": "Android App Development (UI/UX)",
+    "knowledge" : "Almost Complete",
+    "status" : "Ready"
+    
+  },
+  
+  {
+   "subject": "Android App Development (Back end) SQLite",
+    "knowledge" : "Almost Complete",
+    "status" : "Ready"
+    
+  },
+  
+  {
+   "subject": "Android App Development (Back end) FireBase",
+    "knowledge" : "Almost Complete",
+    "status" : "Ready"
+    
+  },
+  
+  {
+   "subject": "IOS App Development ",
+    "knowledge" : "Limited",
+    "status" : "Saving to get a Mac"
+    
   }
+  
+  
+  
 ]
