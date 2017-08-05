@@ -6,13 +6,15 @@
     
   },
   {
-    "name": "Barky",
-    "species" : "dog",
+   "subject": "Meowsy",
+    "knowledge" : "cat",
+    "status" : "cat"
     
   },
   {
-    "name": "Purrpaws",
-    "species" : "cat",
+   "subject": "Meowsy",
+    "knowledge" : "cat",
+    "status" : "cat"
   
   }
 ]
